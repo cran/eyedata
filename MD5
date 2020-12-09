@@ -1,0 +1,15 @@
+1299aa10d472c91ea6d405abb647ce42 *DESCRIPTION
+197cff393b921efb168b823be6aa4649 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+e98ab9cddbbc0d31b5a8da7e715ffb61 *R/data.R
+a06880aeb76b105815c2a834a9f8f105 *README.md
+64cdb15000c04549af058c9a8819c707 *data/amd.rda
+f5384028be638f807964264072c6bec7 *data/amd2.rda
+b5e4881431f96d23207678d3a84a5bc7 *data/amd3.rda
+75e8ccec684342fbf637a2c5365ed695 *data/amdoct.rda
+0592616895274edd2bcb68dc9bf16c1b *data/dme.rda
+ab019fe510d47ed0621ff2b2de7cd6ad *man/amd.Rd
+344425390cd29773ba0c6acd8bcc4602 *man/amd2.Rd
+bd556a1422be50da1b23e2364f438811 *man/amd3.Rd
+47fd35b3df5f35be3a78b829157542a3 *man/amdoct.Rd
+6a45bcb57675921a054906219254ef36 *man/dme.Rd
